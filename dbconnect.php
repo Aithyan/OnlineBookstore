@@ -1,9 +1,9 @@
 <?php 
 	// Database details
-	$servername = "localhost";
-	$username = "root";
-	$password = "Admin123";
-	$dbname = "book_store_db";
+	$servername = "RDS Endpoint";
+	$username = "admin";
+	$password = "password";
+	$dbname = "dbname";
 
 	// Create connection
 	$conn = new mysqli($servername, $username, $password, $dbname);
