@@ -1,9 +1,9 @@
 <?php 
 	// Database details
-	$servername = "localhost";
-	$username = "root";
-	$password = "Admin123";
-	$dbname = "book_store_db";
+	$servername = "database-1.cr0lkyox2lnj.ap-south-1.rds.amazonaws.com";
+	$username = "admin";
+	$password = "Test1234";
+	$dbname = "Bookstore";
 
 	// Create connection
 	$conn = new mysqli($servername, $username, $password, $dbname);

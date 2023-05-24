@@ -24,13 +24,11 @@
         <nav>
             <ul>
                 <li><a href='index.php'>Home</a></li>
-                  <li><a href='Books.php'>Books</a></li>
-                   <li><a href='Stationary.php'>Stationary</a></li>
-                <li><a href='register.php'>Register</a></li>
-                         <li><a href='contactus.php'>Contact Us</a></li>
 
-                <li><a href='viewcart.php'>View Cart</a></li>
-                <li><a href='signin.php'>Sign In</a></li>
+               
+
+                <li><a href='viewbooks.php'>View Books</a></li>
+               
             </ul>
         </nav>
     </div>

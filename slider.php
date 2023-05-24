@@ -12,7 +12,7 @@
     <img class="mySlides" src="imgs/image4.jpg" ><br>
     <div class="home_mid">
         <p style="text-align:center">
-            Now to can get any book or stationary to your door step vey quickly. Our four year plus service in dealers of books and stationary gives you an excelent experience in online shopping.         </p>
+            Now to can get any book at your door step vey quickly. Our service in books delivery gives you an excelent experience in online shopping.         </p>
     </div>
 </div>
 

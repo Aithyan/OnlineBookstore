@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>EMS - UoM</title>
+    <title>Online Book Store</title>
 </head>
 <body>
     <?php
