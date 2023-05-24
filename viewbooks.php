@@ -21,7 +21,7 @@
             
               <pre><?php
 
-include "db_conn.php";
+include "dbconnect.php";
               ?></pre>
             
               <form action="#" method="POST">
@@ -29,9 +29,9 @@ include "db_conn.php";
                 <tr >
                   
                   <td> <b>Category
-                  <td> <b>Product
-                  <td> <b>Qty
-                  <td> <b>Rate
+                  <td> <b>BookName
+                  <td> <b>Quantity
+                  <td> <b>Rate(in INR)
                   
                  </tr>
   
